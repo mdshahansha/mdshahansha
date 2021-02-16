@@ -4,11 +4,11 @@
  <br>
  <h1 align="center">Hey I am Shahansha <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
  </h1>
-  <h3 align="center"><img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="40px"> A Passionate Developer From India <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="40px"></h3> 
+  <h3 align="center"> A Passionate Developer From India 
  <p align="center">
    <em>
      This is Shahansha , a 2nd year undergraduate pursuing B.Tech from <a href="https://www.gitmgurgaon.com"> <b>Heritage Institute Of Technology </b>,Kolkata</a> <br>
-     An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
+     An aspiring <b>Full-Stack Web Developer  </b><img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
      with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
      <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
    </em>
