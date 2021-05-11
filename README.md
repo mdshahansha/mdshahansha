@@ -7,7 +7,7 @@
   <h3 align="center"> A Passionate Developer From India 
  <p align="center">
    <em>
-     This is Shahansha , a 3nd year undergraduate pursuing B.Tech from <a href="https://www.gitmgurgaon.com"> <b>Heritage Institute Of Technology </b>,Kolkata</a> <br>
+     This is Shahansha , a 3rd year undergraduate pursuing B.Tech from <a href="https://www.gitmgurgaon.com"> <b>Heritage Institute Of Technology </b>,Kolkata</a> <br>
      An aspiring <b>Full-Stack Web Developer  </b><img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
      with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
      <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
@@ -30,13 +30,13 @@
 <p align="left">
 <a href="https://twitter.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__priyaankaa__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanka-mishra-0068751a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/___priyaankaa___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___priyaankaa___" height="30" width="40" /></a>
-<a href="https://medium.com/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/priyanka mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="priyanka mishra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@priyanka_073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@priyanka_073" height="30" width="40" /></a>
-<a href="https://codeforces.comofile/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanka31mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="priyanka31mishra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
+<a href=" #" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___priyaankaa___" height="30" width="40" /></a>
+<a href="mdshahansha822@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="priyanka mishra" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@priyanka_073" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="priyanka31mishra" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
  </p>
 
  <h3 align="left">Languages and Tools:</h3>
