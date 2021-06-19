@@ -15,8 +15,7 @@
  </p>
  <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
  > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Web Development_** 😉
- - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Portfolio_** 🔭
+  
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="30px">&nbsp;Looking forward to work on **Web Development projects** &nbsp;🤝
  - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">Collaborating in various projects as an **Open Source Contributor** <img alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" width="35vw" /> 
  -  Desire to develop new possibilities in the field of **_Data Science🌱 & ML_**🔭
@@ -28,7 +27,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/__priyaankaa__" target="blank"><img src="https://img.shields.io/twitter/follow/__priyaankaa__?logo=twitter&style=for-the-badge" alt="__priyaankaa__" /></a> </p> -->
 <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 <p align="left">
-<a href="https://twitter.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__priyaankaa__" height="30" width="40" /></a>
+ 
  
 <a href=" #" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt=" _" height="30" width="40" /></a>
 <a href="mdshahansha822@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
