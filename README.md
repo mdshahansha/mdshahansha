@@ -17,8 +17,7 @@
    3 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">codechef
    
    
-
- - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_Self Portrait_** & wish to become an **Creator** of my _Own Story_ ... 📝
+ 
  - 📫 How to reach me **mdshahansha44411@gmail.com** 💬
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p> -->
