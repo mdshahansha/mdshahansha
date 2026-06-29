@@ -1,32 +1,99 @@
-### Hi there 👋 
-<hr>
- <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
- <br>
- <h1 align="center">Hey I am Shahansha <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
- </h1>
-  <h3 align="center"> A Passionate Developer From India 
- <p align="center">
-   <em>
-    This is <a href="https://mohammad-shahansha-portfolio-1g33.onrender.com/">Shahansha </a>  
-       <b>Full-Stack Web Developer  </b><img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="50px">&nbsp <br><b>still a learner</b>
-     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
-     <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
-   </em>
- </p>
- <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
-   3 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">codechef
-   
-   
- 
- - 📫 How to reach me **mdshahansha44411@gmail.com** 💬
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
- <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p> -->
- 
+<h1 align="center">Hi 👋, I'm Mohammad Shahansha</h1>
+<h3 align="center">Full-Stack & Backend Engineer · API Architecture · GenAI Integration</h3>
 
- <h3 align="left">Languages and Tools:</h3>
- <!-- <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> --> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!--<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> --> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
- <p> � You have finally discovered my Github profile!! 
- Thanks for stopping by! 🤝</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Design-0e75b6?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square"></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=mdshahansha&label=Profile%20views&color=0e75b6&style=flat-square" alt="views"></a>
+</p>
 
+---
 
+> I build production REST APIs, event-driven backends, and LLM-powered features — and I document the journey so others can level up too. This profile doubles as a **personalized Open Source Playbook**.
+
+---
+
+## 🗺️ Open Source Roadmap
+
+A curated path of **100+ organizations & repos** matched to my stack — backend, distributed systems, and AI tooling.
+
+| Domain | Where I Contribute / Want To |
+| --- | --- |
+| **Backend / APIs** | `nodejs`, `expressjs`, `fastapi`, `spring-projects` |
+| **Messaging & Streaming** | `apache/kafka`, `rabbitmq`, `redis` |
+| **Cloud & DevOps** | `kubernetes`, `docker`, `grafana`, `prometheus` |
+| **GenAI / LLM** | `langchain`, `openai-cookbook`, `anthropics`, embeddings tooling |
+| **Databases** | `mongodb`, `postgres`, `mysql`, `redis` |
+
+## 📝 Issue-by-Issue Contribution Guidance
+
+I track contributions like an engineering sprint:
+1. **Scope** — pick `good-first-issue` / `help-wanted` aligned to my stack.
+2. **Reproduce** — build a minimal harness before touching code.
+3. **Fix + RCA** — root-cause the bug, not just the symptom.
+4. **Document** — leave the issue clearer than I found it.
+
+## 🧠 Backend & AI Engineering Curriculum
+
+- **APIs at scale** — 100+ production REST endpoints across auth, payments, real-time data & LLM features.
+- **Security** — JWT, OAuth 2.0, RBAC, rate limiting, token lifecycle management.
+- **GenAI** — OpenAI / Anthropic / Gemini APIs, prompt engineering, embeddings, LLM integration.
+- **Performance** — Redis caching (~60% latency cuts), code splitting, memoization.
+
+## 🏗️ System Design Notes & Practice
+
+- Event-driven workflows with **Kafka / RabbitMQ / SQS** to decouple sync paths.
+- Containerized services on **Docker + Kubernetes** for zero-downtime rollouts & autoscaling.
+- Full observability via **Datadog · Grafana · Prometheus · CloudWatch** (~50% lower MTTD).
+
+## 💼 Resume & GitHub Improvements
+
+Always iterating on how I present work — clean repos, meaningful READMEs, measurable impact statements over vanity metrics.
+
+## ✍️ Technical Writing
+
+I write up what I learn — RCAs, system design breakdowns, and "what → why → tradeoff" deep-dives on [Medium](#).
+
+---
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshahansha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahansha&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahansha&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  📫 Reach me at <b>mdshahansha44411@gmail.com</b><br>
+  <em>Thanks for stopping by — let's build something open. 🤝</em>
+</p>
