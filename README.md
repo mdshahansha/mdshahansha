@@ -46,10 +46,7 @@ I track contributions like an engineering sprint:
 - Containerized services on **Docker + Kubernetes** for zero-downtime rollouts & autoscaling.
 - Full observability via **Datadog · Grafana · Prometheus · CloudWatch** (~50% lower MTTD).
 
-## 💼 Resume & GitHub Improvements
-
-Always iterating on how I present work — clean repos, meaningful READMEs, measurable impact statements over vanity metrics.
-
+ 
 ## ✍️ Technical Writing
 
 I write up what I learn — RCAs, system design breakdowns, and "what → why → tradeoff" deep-dives on [Medium](#).
