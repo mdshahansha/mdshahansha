@@ -95,8 +95,7 @@ I write up what I learn — RCAs, system design breakdowns, and "what → why �
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=mdshahansha&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&ring_color=A78BFA&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=mdshahansha&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=6D28D9&ring_color=6D28D9&text_color=1F2328">
-    <img src="https://github-stats-extended.vercel.app/api?username=mdshahansha&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=6D28D9&ring_color=6D28D9&text_color=1F2328" width="49%" alt="Mohammad's GitHub stats">
+     <img src="https://github-stats-extended.vercel.app/api?username=mdshahansha&show_icons=true&hide_border=true&bg_color=00000000&title_color=6D28D9&icon_color=6D28D9&ring_color=6D28D9&text_color=1F2328" width="49%" alt="Mohammad's GitHub stats">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mdshahansha&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9">
